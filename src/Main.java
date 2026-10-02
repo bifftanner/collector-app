@@ -45,7 +45,7 @@ public static void main(String[] args) {
     System.out.println(sneaker5.toString());
 
     System.out.println("---------------------------");
-
+    //fortnite
     // Aliasing
     Sneaker sneaker1 = new Sneaker("Jordan", "1", "Chicago", 10, 150, 500, true);
     Sneaker sneaker2 = sneaker1;
