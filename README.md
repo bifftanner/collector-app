@@ -1,7 +1,6 @@
 # Sneaker Collector Project
 My project is a sneaker collector that allows users to create, modify, and remove sneakers along with their prices to build the best collection.
 ## Features
-___
 Add - Add your own sneakers to the collection
 Remove - Remove sneakers you please
 Print - Prints the entire vault 
