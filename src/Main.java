@@ -48,6 +48,7 @@ public static void main(String[] args) {
 
     // Added Comment for commit on github
     // Added comment for add-sorting branch
+    // Added comment for testing2 branch
 
     // Aliasing
     Sneaker sneaker1 = new Sneaker("Jordan", "1", "Chicago", 10, 150, 500, true);
