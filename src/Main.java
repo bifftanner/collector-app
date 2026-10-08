@@ -47,6 +47,7 @@ public static void main(String[] args) {
     System.out.println("---------------------------");
 
     // Added Comment for commit on github
+    // Added comment for add-sorting branch
 
     // Aliasing
     Sneaker sneaker1 = new Sneaker("Jordan", "1", "Chicago", 10, 150, 500, true);
